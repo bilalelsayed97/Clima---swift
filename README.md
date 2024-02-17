@@ -1,2 +1,6 @@
-![Screenshot 2024-02-14 at 8 43 18 PM](https://github.com/bilalelsayed97/Clima---swift/assets/133275598/f03f94fd-c3c8-4304-9a15-49c69d88d224)
-![Screenshot 2024-02-14 at 8 43 00 PM](https://github.com/bilalelsayed97/Clima---swift/assets/133275598/54ea0915-8a90-464d-82aa-61568e52228e)
+<p float="left">
+  <img src="https://github.com/bilalelsayed97/Clima---swift/assets/133275598/1375f57a-5e38-43bc-bde6-aeffbf0aed3c" width="200" />
+  <img src="https://github.com/bilalelsayed97/Clima---swift/assets/133275598/2adbbf65-ea1f-4801-a022-66829e947172" width="200" /> 
+  <img src="https://github.com/bilalelsayed97/Clima---swift/assets/133275598/5e80de13-43d3-4999-9fc3-d71607602d87" width="200" />
+</p>
+
